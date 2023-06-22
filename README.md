@@ -5,8 +5,6 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
 - Tools
-  
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 
 ![thisisthewa2's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisthewa2&show_icons=true&theme=radical)
 
@@ -22,3 +20,6 @@
 - AppStore: https://apps.apple.com/kr/app/moveyourbody/id6448321387
 - Github: https://github.com/Swift-Coding-Club/MoveYourBody
 - 배운점: https://github.com/Swift-Coding-Club/MoveYourBody/wiki/Mando
+
+
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
