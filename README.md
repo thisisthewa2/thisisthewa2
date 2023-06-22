@@ -8,5 +8,6 @@
 <img src="https://github.com/thisisthewa2/thisisthewa2/assets/119280160/6154a8a9-34f2-4363-9263-f08a191337a3" width="100" height="200"/>
 <img src="https://github.com/thisisthewa2/thisisthewa2/assets/119280160/e8fa1792-ab70-4e4f-bb0a-bfd22ee3638a" width="100" height="200"/>
 
+
 - AppStore:https://apps.apple.com/kr/app/moveyourbody/id6448321387
 - Github: https://github.com/Swift-Coding-Club/MoveYourBody
