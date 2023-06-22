@@ -1,6 +1,6 @@
 ## 👋 초보 iOS개발자 안윤진입니다.
 
-
+## 프로젝트
 ### 현대인을 위한 운동 습관앱 'Move Your Body' 협업개발, 출시
 <img src="https://github.com/thisisthewa2/thisisthewa2/assets/119280160/168dc489-6052-440e-9a3f-495fb1c7ab8e" width="100" height="200"/>
 <img src="https://github.com/thisisthewa2/thisisthewa2/assets/119280160/9f48cf67-1954-41a3-a2bf-8775812ba5c9" width="100" height="200"/>
@@ -11,3 +11,4 @@
 
 - AppStore: https://apps.apple.com/kr/app/moveyourbody/id6448321387
 - Github: https://github.com/Swift-Coding-Club/MoveYourBody
+- 배운점: https://github.com/Swift-Coding-Club/MoveYourBody/wiki/Mando
