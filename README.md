@@ -22,4 +22,4 @@
 - 배운점: https://github.com/Swift-Coding-Club/MoveYourBody/wiki/Mando
 
 
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+!<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
