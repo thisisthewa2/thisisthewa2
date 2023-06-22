@@ -22,5 +22,6 @@
 - Github: https://github.com/Swift-Coding-Club/MoveYourBody
 - 배운점: https://github.com/Swift-Coding-Club/MoveYourBody/wiki/Mando
 
+
 ![thisisthewa2's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisthewa2&show_icons=true&theme=radical)
 
