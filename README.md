@@ -1,5 +1,7 @@
-## 👋 프론트엔드 개발자 안윤진입니다. 
+![e1343abc-fd91-455e-b544-8f2f8bbfb139](https://github.com/user-attachments/assets/bee8dac4-d1d3-46f8-8cba-cc76d863549d)
 
+### 👋 프론트엔드 개발자 안윤진입니다. 
+### 블로그 : https://velog.io/@heresyoonjin/posts
 ### 최근 참여한 프로젝트
 #### 커뮤니티 기능을 결합한 도서 커머스 사이트 'Readme' 협업개발, 배포
 <img src="https://github.com/thisisthewa2/thisisthewa2/assets/119280160/3a6df636-2691-4e28-ba6f-5beda5627109" width="300" height="200"/>
